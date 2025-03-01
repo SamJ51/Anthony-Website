@@ -1,21 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <!-- FontAwesome for social icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body>
     <header>
-        <img src="/assets/images/AgCentuateLogo.png"/>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/about/">About</a>
-            <a href="/contact/">Contact</a>
-            <a href="/portfolio/">Portfolio</a>
+        <nav class="header-nav">
+            <img src="{{ '/assets/images/AgCentuateLogo.png' | relative_url }}" alt="AgCentuate Logo" class="nav-logo">
+            <ul class="nav-links">
+                <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+                <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+                <li><a href="{{ '/portfolio/' | relative_url }}">Portfolio</a></li>
+            </ul>
         </nav>
     </header>
 
@@ -24,8 +27,7 @@
     </main>
 
     <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} Anthony's Portfolio. All rights reserved.</p>
+        <p>© {{ site.time | date: '%Y' }} AgCentuate. All rights reserved.</p>
     </footer>
 </body>
-
 </html>
