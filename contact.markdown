@@ -4,7 +4,9 @@ title: Contact Me
 permalink: /contact/
 ---
 
-# Contact Me
+<div class="contact-header">
+  <h1>Contact Me</h1>
+</div>
 
 Have a question or want to collaborate? I’d love to hear from you! Use the form below or connect with me directly.
 

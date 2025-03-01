@@ -3,10 +3,12 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Professional Profile
+# Welcome to AgCentuate
 
-I am an accomplished **agribusiness professional** with a deep passion for advancing *sustainability, resilience, and growth* in primary industries and natural resource management. With extensive experience across technical, strategic, and operational domains, I am committed to fostering **innovation**, driving capacity building, and delivering meaningful environmental and societal outcomes.
+![Anthony Kachenko Portrait](/assets/images/portrait.png "Anthony Kachenko Portrait"){: .profile-image}
 
-A strong advocate for collaboration and stakeholder engagement, I excel in building and maintaining trusted relationships with industry, government, and community partners to co-create solutions that balance **economic**, *environmental*, and *social* priorities.
+Hi, I’m Anthony Kachenko, an accomplished agribusiness professional with a deep passion for advancing sustainability, resilience, and growth in primary industries and natural resource management. With extensive experience across technical, strategic, and operational domains, I’m committed to fostering innovation, driving capacity building, and delivering meaningful environmental and societal outcomes.
 
-I approach leadership with a 'can-do,' solution-oriented mindset and thrive on bringing fresh perspectives to entrenched challenges. My goal is to continue driving impactful change by leveraging my expertise at the intersection of **environment**, **industry**, and **innovation**.
+I’m a strong advocate for collaboration and stakeholder engagement, excelling in building trusted relationships with industry, government, and community partners to co-create solutions that balance economic, environmental, and social priorities. My leadership style is ‘can-do’ and solution-focussed, and I thrive on bringing fresh perspectives to long-standing challenges.
+
+Explore my [About Me page](/about/) to learn more about my background, check out my [Portfolio](/portfolio/) to see my projects and achievements, or head to my [Contact page](/contact/) to get in touch. I’m always keen to collaborate on creating a more sustainable future!

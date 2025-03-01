@@ -16,26 +16,32 @@ body {
   background: #2c3e50;
   padding-right: 20px;
 }
+
 .nav-logo {
-  height: 70px; /* Adjust as needed */
+  height: 70px;
+  /* Adjust as needed */
   width: auto;
 }
+
 .nav-links {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
 }
+
 .nav-links li {
   margin-left: 20px;
 }
+
 .nav-links a {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
+
 .nav-links a:hover {
-  color: #3498db;
+  color: #0000008a;
 }
 
 /* Main Content */
@@ -44,6 +50,7 @@ main {
   margin: 40px auto;
   padding: 0 20px;
 }
+
 h1 {
   font-size: 2.5em;
   color: #2c3e50;
@@ -51,11 +58,13 @@ h1 {
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
+
 h2 {
   font-size: 1.8em;
   color: #2980b9;
   margin-top: 30px;
 }
+
 p {
   font-size: 1.1em;
 }
@@ -68,31 +77,38 @@ p {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   margin: 20px 0;
 }
+
 .form-group {
   margin-bottom: 20px;
 }
+
 label {
   display: block;
   font-weight: bold;
   color: #2c3e50;
   margin-bottom: 5px;
 }
-input, textarea {
+
+input,
+textarea {
   width: 100%;
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
   font-size: 1em;
   box-sizing: border-box;
-  transition: border-color 0.1s;
 }
-input:focus, textarea:focus {
+
+input:focus,
+textarea:focus {
   border-color: #3498db;
   outline: none;
 }
+
 textarea {
   resize: vertical;
 }
+
 .submit-btn {
   background: #3498db;
   color: white;
@@ -102,6 +118,7 @@ textarea {
   font-size: 1.1em;
   cursor: pointer;
 }
+
 .submit-btn:hover {
   background: #2980b9;
 }
@@ -111,24 +128,42 @@ a {
   color: #3498db;
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }
+
 /* Style for social media icons */
 .social-links {
   margin-top: 10px;
   display: flex;
-  gap: 20px; /* Space between icons */
+  gap: 20px;
+  /* Space between icons */
 }
+
 .social-links a {
   display: inline-block;
 }
+
 .social-links i {
-  font-size: 40px; /* Large icon size */
-  color: #2c3e50; /* Default color */
+  font-size: 40px;
+  /* Large icon size */
+  color: #2c3e50;
+  /* Default color */
 }
+
 .social-links a:hover i {
-  color: #3498db; /* Hover color */
+  color: #3498db;
+  /* Hover color */
+}
+
+.profile-image {
+  display: block;
+  max-width: 200px;
+  height: auto;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 /* Footer */
@@ -141,6 +176,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 footer p {
   margin: 0;
   font-size: 0.9em;
