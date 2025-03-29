@@ -10,7 +10,7 @@ permalink: /portfolio/
 
 ### Advancing Urban Forestry with NGIA
 
-While at [Nursery and Garden Industry Australia (NGIA)](https://ngina.com.au/), I led initiatives to promote a thriving, sustainable, and diverse Australian urban forest. My team and I developed tools to help local councils and communities recognise the value of urban trees as essential environmental, economic, and community assets.
+While at [Nursery and Garden Industry Australia (NGIA)](https://greenlifeindustry.com.au/), I led initiatives to promote a thriving, sustainable, and diverse Australian urban forest. My team and I developed tools to help local councils and communities recognise the value of urban trees as essential environmental, economic, and community assets.
 
 - **i-Tree Eco (Australian Adaptation)**: I spearheaded the Australian version of [i-Tree Eco (version 5)](http://www.itreetools.org/eco/international.php), a tool that quantifies the monetary value of trees based on their contributions to carbon storage, sequestration, and air pollution reduction. This project aimed to secure increased funding for urban planting infrastructure, fostering healthier communities across Australia.
 - **New Tree Standards**: I contributed to drafting new tree standards for Standards Australia, focusing on best practices for tree suppliers. These standards cover attributes like formative pruning, stem taper, crown symmetry, root direction, and rootball occupancy, aiming to replace or supplement NATSPEC with clear checklists for growers and buyers.

@@ -28,7 +28,18 @@
     </main>
 
     <footer>
-        <p>© {{ site.time | date: '%Y' }} AgCentuate. All rights reserved.</p>
+        <div class="footer-content">
+            <div class="footer-social-links">
+                <a href="https://x.com/AgCentuate" aria-label="Follow on X"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/anthony-kachenko-60093415/" aria-label="Connect on LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+                <a href="https://www.facebook.com/agcentuateimpact" aria-label="Follow on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+            </div>
+            <p>
+                © {{ site.time | date: '%Y' }} AgCentuate. All rights reserved. | 
+                <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a> | 
+                <a href="{{ '/terms-and-conditions/' | relative_url }}">Terms and Conditions</a>
+            </p>
+        </div>
     </footer>
 </body>
 </html>
