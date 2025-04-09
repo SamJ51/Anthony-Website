@@ -49,6 +49,11 @@ body {
   color: #000000;
 }
 
+.nav-links li.active a {
+  color: #3498db;
+  font-weight: bold;
+}
+
 /* Main Content */
 main {
   max-width: 800px;
