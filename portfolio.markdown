@@ -22,13 +22,13 @@ As the General Manager of Production & Sustainability R&D at [Hort Innovation](h
 - **Future of Food Summit 2022**: I participated in the inaugural Future of Food Summit in Brisbane, joining a panel on ‘Working Smarter, Not Harder: Innovative Solutions for Indoor Cropping’. We explored sustainable approaches like protected cropping to strengthen food production systems, emphasizing the role of collaboration in driving innovation amidst the ‘three Cs’—COVID-19, climate, and conflict.
 - **Boosting Veggie Consumption**: I’ve championed initiatives to increase Aussie vegetable consumption, as 9 in 10 Australians don’t eat enough veggies. One fun idea I discussed on ABC Northern Tasmania’s *Country Hour* in June 2024 was chocolate-covered Brussels sprouts—a healthy snacking option to engage younger generations. This project also opens export opportunities, taking Australian innovation global.
 
-![Anthony Kachenko Speech](/Anthony-Website/assets/images/speech.png "Anthony Kachenko Speech"){: .portfolio-image}
+![Anthony Kachenko Speech]( {{ site.baseurl }}/assets/images/speech.png "Anthony Kachenko Speech"){: .portfolio-image}
 
 ## Industry Engagement
 
 - **Media Appearances**: I’ve shared my insights on platforms like ABC Northern Tasmania’s *Country Hour*, discussing innovative horticulture products and their potential to lift consumption and support export markets.
 - **Summit Contributions**: At the 2022 Future of Food Summit, I engaged with industry leaders, government, and academia to tackle pressing challenges in global food supply, advocating for smart, sustainable, and resilient food systems.
 
-My work continues to focus on creating impactful solutions that balance economic, environmental, and social priorities. I’m always keen to collaborate on new projects—visit my [Contact page](/contact/) to get in touch!
+My work continues to focus on creating impactful solutions that balance economic, environmental, and social priorities. I’m always keen to collaborate on new projects—visit my [Contact page]({{ site.baseurl }}/contact/) to get in touch!
 
-![Anthony Kachenko AUSVEG](/Anthony-Website/assets/images/AUSVEG.png "Anthony Kachenko AUSVEG"){: .portfolio-image}
+![Anthony Kachenko AUSVEG]( {{ site.baseurl }}/assets/images/AUSVEG.png "Anthony Kachenko AUSVEG"){: .portfolio-image}

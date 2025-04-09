@@ -11,7 +11,7 @@ Hi, I’m Anthony Kachenko, an accomplished agribusiness professional with a dee
 
 I’m a strong advocate for collaboration and stakeholder engagement, excelling in building trusted relationships with industry, government, and community partners to co-create solutions that balance economic, environmental, and social priorities. My leadership style is ‘can-do’ and solution-focussed, and I thrive on bringing fresh perspectives to long-standing challenges.
 
-Explore my [About Me page](/about/) to learn more about my background, check out my [Portfolio](/portfolio/) to see my projects and achievements, or head to my [Contact page](/contact/) to get in touch. I’m always keen to collaborate on creating a more sustainable future!
+Explore my [About Me page]({{ site.baseurl }}/about/) to learn more about my background, check out my [Portfolio]({{ site.baseurl }}/portfolio/) to see my projects and achievements, or head to my [Contact page](/contact/) to get in touch. I’m always keen to collaborate on creating a more sustainable future!
 
 {: .acknowledgement}
 We acknowledge the Traditional Custodians of the land on which we work and live, and pay our respects to Elders past, present, and emerging.
