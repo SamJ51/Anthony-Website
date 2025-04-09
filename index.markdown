@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to AgCentuate IMPACT
 
-![Anthony Kachenko Portrait](/Anthony-Website/assets/images/portrait.png "Anthony Kachenko Portrait"){: .profile-image}
+![Anthony Kachenko Portrait]({{ site.baseurl }}/assets/images/portrait.png "Anthony Kachenko Portrait"){: .profile-image}
 
 Hi, I’m Anthony Kachenko, an accomplished agribusiness professional with a deep passion for advancing sustainability, resilience, and growth in primary industries and natural resource management. With extensive experience across technical, strategic, and operational domains, I’m committed to fostering innovation, driving capacity building, and delivering meaningful environmental and societal outcomes.
 
