@@ -22,7 +22,7 @@ As the General Manager of Production & Sustainability R&D at [Hort Innovation](h
 - **Future of Food Summit 2022**: I participated in the inaugural Future of Food Summit in Brisbane, joining a panel on ‘Working Smarter, Not Harder: Innovative Solutions for Indoor Cropping’. We explored sustainable approaches like protected cropping to strengthen food production systems, emphasizing the role of collaboration in driving innovation amidst the ‘three Cs’—COVID-19, climate, and conflict.
 - **Boosting Veggie Consumption**: I’ve championed initiatives to increase Aussie vegetable consumption, as 9 in 10 Australians don’t eat enough veggies. One fun idea I discussed on ABC Northern Tasmania’s *Country Hour* in June 2024 was chocolate-covered Brussels sprouts—a healthy snacking option to engage younger generations. This project also opens export opportunities, taking Australian innovation global.
 
-![Anthony Kachenko Speech](/assets/images/speech.png "Anthony Kachenko Speech"){: .portfolio-image}
+![Anthony Kachenko Speech](/Anthony-Website/assets/images/speech.png "Anthony Kachenko Speech"){: .portfolio-image}
 
 ## Industry Engagement
 
@@ -31,4 +31,4 @@ As the General Manager of Production & Sustainability R&D at [Hort Innovation](h
 
 My work continues to focus on creating impactful solutions that balance economic, environmental, and social priorities. I’m always keen to collaborate on new projects—visit my [Contact page](/contact/) to get in touch!
 
-![Anthony Kachenko AUSVEG](/assets/images/AUSVEG.png "Anthony Kachenko AUSVEG"){: .portfolio-image}
+![Anthony Kachenko AUSVEG](/Anthony-Website/assets/images/AUSVEG.png "Anthony Kachenko AUSVEG"){: .portfolio-image}

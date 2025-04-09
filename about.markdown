@@ -12,7 +12,7 @@ I’m Anthony Kachenko, a seasoned agribusiness professional with a career spann
 
 I’ve been fortunate to contribute to industry-wide initiatives, such as speaking at the 2022 Future of Food Summit in Brisbane, where I joined a panel on innovative solutions for indoor cropping. I’ve also engaged with media, like my chat on ABC Northern Tasmania’s *Country Hour* in June 2024, where I discussed fun ways to boost veggie consumption among Aussies—like chocolate-covered Brussels sprouts!
 
-![Anthony on Panel](/assets/images/panel.png "Anthony on Panel"){: .portfolio-image}
+![Anthony on Panel](/Anthony-Website/assets/images/panel.png "Anthony on Panel"){: .portfolio-image}
 
 ## My Interests
 
@@ -24,6 +24,6 @@ I believe collaboration is key to innovation, and I enjoy connecting with like-m
 
 My mission is to drive impactful change at the intersection of environment, industry, and innovation. I’m motivated by the potential to create healthier, happier communities through sustainable practices—whether that’s by valuing urban trees, increasing Aussie veggie consumption, or integrating traditional knowledge into modern food systems. I approach every challenge with a ‘can-do’ mindset, aiming to deliver solutions that make a real difference.
 
-![Grabbing juice](/assets/images/juice.png "Grabbing juice"){: .portfolio-image}
+![Grabbing juice](/Anthony-Website/assets/images/juice.png "Grabbing juice"){: .portfolio-image}
 
 ---
