@@ -13,7 +13,9 @@
 <body>
     <header>
         <nav class="header-nav">
-            <img src="{{ site.baseurl }}/assets/images/AgCentuateLogo.png" alt="AgCentuate Logo" class="nav-logo">
+            <a href="{{ site.baseurl }}">
+                <img src="{{ site.baseurl }}/assets/images/AgCentuateLogo.png" alt="AgCentuate Logo" class="nav-logo">
+            </a>
             <ul class="nav-links">
                 <li {% if page.url=='/' %} class="active" {% endif %}>
                     <a href="{{ site.baseurl }}/">Home</a>
